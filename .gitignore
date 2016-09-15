@@ -1,0 +1,11 @@
+nbproject/
+build/
+dist/
+.dep.inc
+*.o
+*.o.d
+
+*.user
+*.autosave
+
+.vscode/

@@ -12,7 +12,7 @@
 
 struct DaemonConfig {
 	DaemonConfig():
-	bindAddr("0.0.0.0"), port("9872"), receiveBroadcast(true)
+	bindAddr("0.0.0.0"), port("9872"), receiveBroadcast(false)
 	{}
 
 	std::string bindAddr;
